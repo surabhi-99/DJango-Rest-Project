@@ -16,7 +16,7 @@ Before proceeding, ensure you have the following installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/surabhi-99/Django-REST.git
+   git clone https://github.com/surabhi-99/Django-REST-Project.git
    cd Django-REST
    ```
    If you don't want to use Git, you can download the repository zip file from the GitHub page and extract it to a local directory.
